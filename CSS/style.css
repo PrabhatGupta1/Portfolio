@@ -326,3 +326,14 @@ footer {
     }
 
 }
+
+@media (min-width: 801px) and (max-width: 1200px) {
+    .My-key-skills {
+        margin-left: 5%;
+        width: 90%;
+    }
+    .project {
+        width: 90%;
+        margin-left: 5%;
+    }
+}
