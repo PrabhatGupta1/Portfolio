@@ -272,7 +272,7 @@ footer {
     font-weight: 100;
 }
 
-@media (max-width: 800px) {
+@media (min-width: 300px) and (max-width: 800px) {
     .name > h1 {
         font-size: 3.5rem;
     }
