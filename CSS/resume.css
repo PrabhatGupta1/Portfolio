@@ -18,8 +18,9 @@ body {
     font-weight: 200;
 }
 
-.linkedIn-icon {
+.icon {
     color: #4a4545;
+    margin-right: 30px ;
 }
 
 .heading {
