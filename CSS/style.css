@@ -8,6 +8,14 @@ img {
     height: 150px;
 }
 
+.my-container {
+    margin: 0 5%;
+}
+
+li {
+    list-style: none;
+}
+
 .hero {
     background-color: rgb(193, 253, 233);
     display: grid;
