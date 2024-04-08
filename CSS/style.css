@@ -136,8 +136,8 @@ hr {
 }
 .My-key-skills {
     display: flex;
-    margin-left: 25%;
-    width: 50%;
+    margin-left: 15%;
+    width: 70%;
     gap: 20px;
     flex-direction: column;
     align-items: center;
@@ -201,7 +201,7 @@ h3 {
     margin-top: 100px;
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    gap: 100px;
     align-items: center;
     width: 70%;
     margin-left: 15%;
@@ -219,7 +219,7 @@ h3 {
     height: 200px;
     width: 400px;
     margin-right: 50px;
-    border: 5px solid rgb(37, 163, 121);
+    border: 2px solid rgb(37, 163, 121);
 }
 
 .project-title {
@@ -249,8 +249,7 @@ h3 {
 
 .about {
     text-align: center;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin: 0 10% 0 10%;
 }
 
 .contact {
@@ -350,6 +349,10 @@ footer {
         width: 90%;
         margin-left: 5%;
     }
+
+    .project-description {
+        padding: 0 5px;
+    }
     
     .project-detail{
         padding: 5%;
@@ -362,8 +365,7 @@ footer {
     }
  
     .project-image {
-        width: 98%;
-        border: 4px solid rgb(37, 163, 121);
+        width: 100%;
         margin-right: 0;
     }
     .My-key-skills {
